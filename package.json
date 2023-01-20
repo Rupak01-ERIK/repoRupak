@@ -1,0 +1,25 @@
+{
+  "name": "roaming-nepal",
+  "version": "1.0.0",
+  "description": "roaming nepal",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss assets/css/style.css --output-style compressed -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.makuracreations.xyz:fed/dokotours-fed.git"
+  },
+  "keywords": [
+    "Makura"
+  ],
+  "author": "Roaming Nepal",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "flatpickr": "^4.6.13",
+    "node-sass": "^7.0.1"
+  },
+  "devDependencies": {}
+}
