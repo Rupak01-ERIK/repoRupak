@@ -281,10 +281,18 @@
     <div class="row">
         <div class="owl-carousel owl-theme p-0 home-banner-wrapper">
             <div class="position-relative item">
-                <img src="assets/img/banner-1.png" alt="">
+                <img src="assets/img/thailand.jpg" alt="home-banner">
+                <div class="text-wrapper">
+                    <h1>Perfect Holiday Flight Adventure Starts Here.</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus assumenda.</p>
+                </div>
             </div>
             <div class="position-relative item">
-                <img src="assets/img/banner.png" alt="">
+                <img src="assets/img/destination.jpg" alt="home-banner">
+                <div class="text-wrapper">
+                    <h1>Perfect Holiday Flight Adventure Starts Here.</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus assumenda.</p>
+                </div>
             </div>
         </div>
     </div>
