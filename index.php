@@ -281,14 +281,14 @@
     <div class="row">
         <div class="owl-carousel owl-theme p-0 home-banner-wrapper">
             <div class="position-relative item">
-                <img src="assets/img/thailand.jpg" alt="home-banner">
+                <img src="assets/img/destination.jpg" alt="">
                 <div class="text-wrapper">
                     <h1>Perfect Holiday Flight Adventure Starts Here.</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus assumenda.</p>
                 </div>
             </div>
             <div class="position-relative item">
-                <img src="assets/img/destination.jpg" alt="home-banner">
+                <img src="assets/img/destination.jpg" alt="">
                 <div class="text-wrapper">
                     <h1>Perfect Holiday Flight Adventure Starts Here.</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus assumenda.</p>
@@ -357,7 +357,7 @@
 <!-- EXPLORE-DESTINATION-SECTION -->
 
 <!-- BLOGS-SECTION -->
-<section class="text-center py-60 primary-light blog-and-articles">
+<section class="text-center pt-60 pb-100 primary-light blog-and-articles">
     <div class="container">
         <div class="row">
             <h2>Blog & Articles</h2>
@@ -469,10 +469,14 @@
 </section> -->
 <!-- TRAVEL-PACKAGE -->
 
+
 <!-- FEATURE-TRAVEL-PACKAGE -->
-<section class="feature-travel-pacakge">
+<section class="mt-100 position-relative feature-travel-pacakge">
     <div class="overlay"></div>
     <img src="assets/img/thailand.jpg" alt="">
+    <div class="panda-img-wrapper">
+        <img src="assets/img/panda.png" alt="">
+    </div>
     <div class="col-12 inner-content">
         <div class="container">
             <div class="row justify-content-center align-items-center">
@@ -484,7 +488,7 @@
                         delectus tempore, sequi aperiam.</p>
                     <span>From: USD $300</span>
                 </div>
-                <div class="col-lg-4 text-center hover-up">
+                <div class="col-lg-4 text-end hover-up">
                     <a href="#" class="viewDetail">Details</a>
                 </div>
             </div>
@@ -492,6 +496,125 @@
     </div>
 </section>
 <!-- FEATURE-TRAVEL-PACKAGE -->
+
+<!-- COUNTER-AREA -->
+<section class="primary-light py-60 counter-area">
+    <div class="container-fluid">
+        <div class="row text-center">
+            <div class="trusted-partners mb-3 col-lg-4">
+                <div class="icon">
+                    <img src="assets/img/startup.png" alt="">
+                </div>
+                <div class="content">
+                    <h3>Trusted Members</h3>
+                    <span>90,000 +</span>
+                </div>
+            </div>
+            <div class="active-users mb-3 col-lg-4">
+                <div class="icon">
+                    <img src="assets/img/lifestyle.png" alt="">
+                </div>
+                <div class="content">
+                    <h3>Active Users</h3>
+                    <span>90,000 +</span>
+                </div>
+            </div>
+            <div class="page-visitors mb-3 col-lg-4">
+                <div class="icon">
+                    <img src="assets/img/visitors.png" alt="">
+                </div>
+                <div class="content">
+                    <h3>Page Visitors</h3>
+                    <span>90,000 +</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- COUNTER-AREA -->
+
+<!-- TESTIMONIAL-CAROUSEL -->
+<section class="py-60 testimonial-carousel-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="mx-auto testimonial-carousel owl-carousel owl-theme">
+                <div class="item">
+                    <div class="image-wrapper">
+                        <img src="assets/img/author.png" alt="">
+                    </div>
+                    <div class="info-wrapper">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!
+                        </p>
+                    </div>
+                    <div class="name">- Denis Hudson</div>
+                </div>
+                <div class="item">
+                    <div class="image-wrapper">
+                        <img src="assets/img/author.png" alt="">
+                    </div>
+                    <div class="info-wrapper">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!
+                        </p>
+                    </div>
+                    <div class="name">- Denis Hudson</div>
+                </div>
+                <div class="item">
+                    <div class="image-wrapper">
+                        <img src="assets/img/author.png" alt="">
+                    </div>
+                    <div class="info-wrapper">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Fugiat, distinctio. Ad dolores
+                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
+                            corporis amet nihil iste ratione esse!
+                        </p>
+                    </div>
+                    <div class="name">- Denis Hudson</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- TESTIMONIAL-CAROUSEL -->
 
 <!-- PAYMENT-PARTNERS -->
 <section class="text-center py-60 payment-partners-wrapper">
@@ -517,123 +640,4 @@
     </div>
 </section>
 <!-- PAYMENT-PARTNERS -->
-
-<!-- COUNTER-AREA -->
-<section class="primary-light py-60 counter-area">
-    <div class="container-fluid">
-        <div class="row text-center">
-            <div class="trusted-partners mb-3 col-lg-4">
-                <div class="icon">
-                    <img src="assets/img/startup.png" alt="">
-                </div>
-                <div class="content">
-                    <h3>Trusted Members</h3>
-                    <span>90,000 +</span>
-                </div>
-            </div>
-            <div class="active-users mb-3 col-lg-4">
-                <div class="icon">
-                    <img src="assets/img/user.png" alt="">
-                </div>
-                <div class="content">
-                    <h3>Active Users</h3>
-                    <span>90,000 +</span>
-                </div>
-            </div>
-            <div class="page-visitors mb-3 col-lg-4">
-                <div class="icon">
-                    <img src="assets/img/returning.png" alt="">
-                </div>
-                <div class="content">
-                    <h3>Page Visitors</h3>
-                    <span>90,000 +</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- COUNTER-AREA -->
-
-<!-- TESTIMONIAL-CAROUSEL -->
-<section class="py-60 testimonial-carousel-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-10 mx-auto testimonial-carousel owl-carousel owl-theme">
-                <div class="item">
-                    <div class="image-wrapper">
-                        <img src="assets/img/author.png" alt="">
-                    </div>
-                    <div class="info-wrapper">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!
-                        </p>
-                    </div>
-                    <div class="name">- Denis Hudson</div>
-                </div>
-                <div class="item">
-                    <div class="image-wrapper">
-                        <img src="assets/img/author.png" alt="">
-                    </div>
-                    <div class="info-wrapper">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!
-                        </p>
-                    </div>
-                    <div class="name">- Denis Hudson</div>
-                </div>
-                <div class="item">
-                    <div class="image-wrapper">
-                        <img src="assets/img/author.png" alt="">
-                    </div>
-                    <div class="info-wrapper">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Fugiat, distinctio. Ad dolores
-                            tempore autem quia cum, eum porro distinctio consequuntur ea saepe excepturi consectetur,
-                            corporis amet nihil iste ratione esse!
-                        </p>
-                    </div>
-                    <div class="name">- Denis Hudson</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- TESTIMONIAL-CAROUSEL -->
 <?php include("partials/footer.php" ); ?>
